@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wYwx30N+Lc=",
+  "success": true,
+  "projectFilePath": "/home/rocha/Videos/Pragmatic Clean Architecture/code/01 - Domain Layer - start/start/Bookify/Bookify.Domain/Bookify.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/rocha/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/rocha/.nuget/packages/sonaranalyzer.csharp/9.17.0.82934/sonaranalyzer.csharp.9.17.0.82934.nupkg.sha512",
+    "/home/rocha/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
